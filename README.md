@@ -1,0 +1,1 @@
+# Image-Text-Translator-Application-Django-Web-Application
